@@ -35,6 +35,7 @@ To link, because we're calling the C stdlib, we need to use gcc
     gcc -m64 -o Servus Servus.o 
 
 To execute simply:
+    
     ./Servus
 
 ---
